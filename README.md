@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Aniket Kumar Soni 👋
 
-<!--
-**aniket-soni03/aniket-soni03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+Full Stack Developer skilled in Java, Spring Boot, and React, with experience in building scalable web applications and RESTful APIs.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- React.js
+- MySQL
+- REST APIs
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Collections
+- Exception Handling
+- Multithreading
+- Java 8 (Streams & Lambda)
+
+## 📂 Projects
+### 🔹 Job Portal
+Full-stack application with role-based access and JWT authentication.
+Tech: React, Spring Boot, MySQL
+
+### 🔹 URL Shortener
+Generates unique short URLs with tracking and search functionality.
+Tech: React, Spring Boot, MySQL
+
+### 🔹 Smart Recipe Finder
+Fetches real-time recipe data with search and suggestion features.
+Tech: React, Fetch API
+
+### 🔹 News & Weather Dashboard
+Displays real-time news and weather updates using external APIs.
+Tech: React, APIs
+
+### 🔹 Portfolio Website
+Personal portfolio showcasing projects and technical skills.
+Tech: React
+
+## 🛠 Tools & Technologies
+- Git & GitHub
+- Maven
+- Postman
+- Eclipse
+
+## 📫 Contact Me
+- 📧 Email: aniket080soni@gmail.com
