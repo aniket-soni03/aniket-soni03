@@ -5,7 +5,10 @@ Full Stack Developer skilled in Java, Spring Boot, and React, with experience in
 
 ## 🚀 Tech Stack
 - Java
+- JDBC
+- Hibernate
 - Spring Boot
+- Spring MVC
 - React.js
 - MySQL
 - REST APIs
