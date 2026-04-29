@@ -46,4 +46,4 @@ Tech: React
 - Eclipse
 
 ## 📫 Contact Me
-- 📧 Email: aniket080soni@gmail.com
+- 📧 Email: sonianiket003@gmail.com
